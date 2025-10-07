@@ -37,6 +37,3 @@ The workflow automates build, test, Docker image creation, push to Docker Hub, a
 - **Concurrency** → Prevents duplicate job runs.  
 - **Slack Notifications** → Real-time success/failure updates.  
 
----
-
-## 📂 Folder Structure
